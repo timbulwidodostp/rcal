@@ -1,5 +1,14 @@
-D 'xtregdhp': Han-Philips (2010) Linear Dynamic Panel Data Regression Use xtregdhp With STATA 19
+D 'rcal': Regression Calibration Use rcal With STATA 19
 D
-F xtregdhp.ado
-F xtregdhp.dlg
-F xtregdhp.sthlp
+F _crcdeq.ado
+F _qvferr.ado
+F qvf.ado
+F qvf.hlp
+F qvfmex.plugin
+F rcal.ado
+F rcal.hlp
+F simex.ado
+F simex.hlp
+F simexplot.ado
+F simexplot.hlp
+F simexploti.ado
